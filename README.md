@@ -61,6 +61,10 @@ npm start
 
 https://localhost:4002/
 
+# Tutorial usado na criação da API
+
+https://adamtheautomator.com/https-nodejs/
+
 
 
 
